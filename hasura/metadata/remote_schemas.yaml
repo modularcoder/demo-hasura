@@ -1,6 +1,1 @@
-- name: TestSchema
-  definition:
-    url: https://shining-tidy-termite.glitch.me
-    timeout_seconds: 60
-    forward_client_headers: true
-  comment: ""
+[]
